@@ -221,8 +221,7 @@ header .group{
         0% 80%
     );
     top:125%; /* modifier le placement à la fin */
-    left:50%;
-    transform: translateX(-50%)
+    left:44%;
 }
 
 .section2 h1{
