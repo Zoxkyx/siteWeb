@@ -164,8 +164,7 @@ header .group{
 .transition {
     width: 100%;
     position:absolute;
-    top:825px;
-    transform: translateY(-40%);
+    top:87%;
 }
 
 .transition img { /*prend la totalité de la largeur du container qui lui fait la totalité de la largeur de l'écran*/
