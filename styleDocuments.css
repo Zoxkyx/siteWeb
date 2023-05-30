@@ -192,6 +192,15 @@ header .group{
     color:#551a8b
 }
 
+.siteW p{
+    flex-direction: row;
+    font-size: 30px;
+    margin-bottom: 20px;
+    font-family: "arial";
+    color:#551a8b;
+}
+
+
 
 .section1 .separateur1{
     width: 75px;
